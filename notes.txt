@@ -1,0 +1,5 @@
+superuser: lab
+
+# to run the app:
+
+python manage.py runserver
